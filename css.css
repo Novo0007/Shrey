@@ -4,25 +4,25 @@ body {
 
 .main{
     width:70%;
-    height:350px;
+    height:50px;
     border:2px solid;
     position:relative ;
     margin:auto ;
-    top:130px;
+    top:30px;
     border-radius:8px;
     background:linear-gradient(to right,rgb(206, 13, 245),rgb(242, 250, 128));
     animation:a 1s linear infinite ;
 }
 
 @keyframes a{
-    10%{top:120px;}
+    10%{top:20px;}
     20%{top:90px;}
     30%{top:100px;}
 }
 
 #pro{
-    width:110px;
-    height:110px;
+    width:10px;
+    height:10px;
     border-radius:60px;
     position:relative ;
     top:30px;
