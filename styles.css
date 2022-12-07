@@ -9,7 +9,7 @@ body {
     position:relative ;
     margin:auto ;
     top:50px;
-    border-radius:8px;
+    border-radius:88px;
     background:linear-gradient(to right,rgb(206, 13, 245),rgb(242, 250, 128));
     animation:a 1s linear infinite ;
 }
@@ -35,10 +35,10 @@ body {
 }
 
 p{
-    color:white;
+    color:black;
     position:relative ;
     font-weight:bold;
-    font-size:56px;
+    font-size:16px;
     -webkit-text-stroke:0.5px #000;
     top:13px;
     left:5opx;
