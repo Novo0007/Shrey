@@ -3,26 +3,26 @@ body {
 }
 
 .main{
-    width:70%;
-    height:50px;
+    width:120%;
+    height:90px;
     border:2px solid;
     position:relative ;
     margin:auto ;
-    top:30px;
+    top:50px;
     border-radius:8px;
     background:linear-gradient(to right,rgb(206, 13, 245),rgb(242, 250, 128));
     animation:a 1s linear infinite ;
 }
 
 @keyframes a{
-    10%{top:20px;}
-    20%{top:90px;}
+    30%{top:40px;}
+    40%{top:90px;}
     30%{top:100px;}
 }
 
 #pro{
-    width:10px;
-    height:10px;
+    width:110px;
+    height:110px;
     border-radius:60px;
     position:relative ;
     top:30px;
@@ -38,7 +38,7 @@ p{
     color:white;
     position:relative ;
     font-weight:bold;
-    font-size:14px;
+    font-size:56px;
     -webkit-text-stroke:0.5px #000;
     top:13px;
     left:5px;
