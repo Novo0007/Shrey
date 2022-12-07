@@ -17,16 +17,7 @@ html {
     font-family: sans-serif ;
 }
 
-.wrapper {
-    position:absolute;
-    top :0;
-    left:0;
-    width : 100vw;
-    height: 100vh ;
-    color:#fff;
-    background-color:hsl(187, 75%, 84%);
-    overflow-y:auto;
-}
+
 
 .timer {
     padding:2rem;
