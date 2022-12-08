@@ -30,53 +30,7 @@
     </body>
 </html>
 
-<!DOCTYPE html>
-<html>
-    <head>""</head>
-    
-        <!-- Middle Column -->
 
- <h1>STOPWATCH</h1>
-
-       
-    
-        <body data-state="idle"></body>
-<div class="wrapper">
-    <div class="timer">
-        <div class="container" onclick="toggle()">
-        <circular-progressbar
-            id="cpb"
-            min="0"
-            max="60"
-            value="0"
-            angle="180"
-            gap="0" 
-            size="256"
-            width="16"
-            color="hsl(220,90%,50%)"
-            track-color="hsl(220,20%,15%)"
-        >
-        </circular-progressbar>
-        <div class="label">00:00:00</div>
-        <div class="controls">
-            <div class="playpause"></div>
-        </div>
-        </div>
-    </div>
-    <div class="actions">
-        <button onclick="doReset()">
-            RESET
-        </button>
-        <button class="lapbtn" onclick="doLap()">
-            LAP
-        </button>
-    </div>
-    <div class="laps"></div>
-</div>
-        
-        <!-- Load external JavaScript -->
-        <script src="scripts.js"></script>
-        <!-- End Middle Column -->
     </body>
 
     </body>
