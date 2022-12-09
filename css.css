@@ -11,7 +11,7 @@ body {
     top:130px;
     border-radius:8px;
     background:linear-gradient(to right,rgb(206, 13, 245),rgb(242, 250, 128));
-    animation:a 1s linear infinite ;
+    
 }
 
 @keyframes a{
