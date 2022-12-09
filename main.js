@@ -26,21 +26,21 @@ let curr_track = document.createElement('audio');
 let track_list = [
 {
 	name: "The_Depth",
-	artist: "Broke For Free",
+	artist: "NE",
 	image: "Image URL",
 	path: "The_Depth.mp3"
 },
 {
-	name: "Enthusiast",
-	artist: "Tours",
+	name: "The_Depth",
+	artist: "NE",
 	image: "Image URL",
-	path: "Enthusiast.mp3"
+	path: "The_Depth.mp3"
 },
 {
-	name: "Shipping Lanes",
-	artist: "Chad Crouch",
+	name: "The_Depth",
+	artist: "More coming soon",
 	image: "Image URL",
-	path: "Shipping_Lanes.mp3",
+	path: "The_Depth.mp3",
 
 
 },
