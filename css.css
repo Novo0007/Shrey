@@ -11,13 +11,13 @@ body {
     top:130px;
     border-radius:8px;
     background:linear-gradient(to right,rgb(206, 13, 245),rgb(242, 250, 128));
-    
+    animation:a 3s linear infinite ;
 }
 
 @keyframes a{
-    10%{top:100px;}
-    20%{top:90px;}
-    30%{top:100px;}
+    30%{top:30px;}
+    30%{top:30px;}
+    30%{top:30px;}
 }
 
 #pro{
