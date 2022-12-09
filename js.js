@@ -5,5 +5,8 @@ var a = new Audio("https://dl.dropbox.com/s/e93f5kxsmtankf3/Best%20Happy%20Birth
 window.addEventListener('click',() => {
 a.play();
 });
+window.addEventListener('click',() => {
+a.pause();
+});
 
 alert("Happy Birthday Shreya 😊 click on screen for music")
