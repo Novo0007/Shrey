@@ -4,13 +4,13 @@ body {
 
 
 .main{
-    width:70%;
+    width:90%;
     height:4000px;
     border:6px solid;
     position:relative ;
     margin:auto ;
     top:30px;
-    border-radius:9px;
+    border-radius:10px;
     background-image: linear-gradient(yellow, #f4baff, #4ccafc);
     animation:a 4s linear infinite ;
 }
