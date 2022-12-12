@@ -1,6 +1,6 @@
 //Audio Credits To Piyush
 
-var a = new Audio("https://dl.dropbox.com/s/e93f5kxsmtankf3/Best%20Happy%20Birthday%20To%20You%20_%20Happy%20Birthday%20Songs%20Remix%202020%28M4A_128K%29_1.m4a?dl=0");
+var a = new Audio("https://www.dropbox.com/s/wuhnr1wz26sf4np/happy.mp3?dl=1");
 
 window.addEventListener('click',() => {
 a.play();
