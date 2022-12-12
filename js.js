@@ -6,6 +6,8 @@ window.addEventListener('click',() => {
 a.play();
 });
 
+alert(" Hii,-Happy Birthday Shreya🥳- click on screen for music")
+
 function aakuWriter(target, msg) {
     let i=0,
         id = setInterval(() => {
@@ -24,8 +26,5 @@ window.onload = function(){
     confetti.start(); 
 
 }
-
-
-alert(" Hii,-Happy Birthday Shreya🥳- click on screen for music")
 
 
