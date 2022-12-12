@@ -8,17 +8,6 @@ a.play();
 
 alert(" Hii,-Happy Birthday Shreya🥳- click on screen for music")
 
-function aakuWriter(target, msg) {
-    let i=0,
-        id = setInterval(() => {
-        
-        target.append(msg[i++]);
-        if (i >= msg.length) {
-            clearInterval(id);         
-        }
-    }, 70);
-}
-
 function apear(){
     document.getElementById("HBD").style.display="block";
 }
@@ -26,5 +15,4 @@ window.onload = function(){
     confetti.start(); 
 
 }
-
 
