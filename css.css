@@ -41,7 +41,13 @@ p{
     position:relative ;
     font-weight:bold;
     font-size:50px;
-    -webkit-text-stroke:0.5px #000;
     top:13px;
     left:9px;
+}
+#bod{
+    color:#1715c1;
+    position:relative ;
+    font-weight:bold;
+    font-size:17px;
+  
 }
