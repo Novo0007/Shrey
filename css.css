@@ -5,13 +5,13 @@ body {
 
 .main{
     width:70%;
-    height:1400px;
+    height:4000px;
     border:6px solid;
     position:relative ;
     margin:auto ;
     top:30px;
     border-radius:9px;
-    background:linear-gradient(to right,rgb(206, 13, 245),rgb(242, 250, 128));
+    background-image: linear-gradient(yellow, #f4baff, #4ccafc);
     animation:a 4s linear infinite ;
 }
 
