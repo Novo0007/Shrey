@@ -1,17 +1,18 @@
+
 body {
     
 }
 
 .main{
-    width:70%;
-    height:350px;
-    border:2px solid;
+    width:60%;
+    height:800px;
+    border:6px solid;
     position:relative ;
     margin:auto ;
-    top:130px;
-    border-radius:8px;
+    top:30px;
+    border-radius:9px;
     background:linear-gradient(to right,rgb(206, 13, 245),rgb(242, 250, 128));
-    animation:a 3s linear infinite ;
+    animation:a 4s linear infinite ;
 }
 
 @keyframes a{
@@ -21,8 +22,8 @@ body {
 }
 
 #pro{
-    width:110px;
-    height:110px;
+    width:310px;
+    height:210px;
     border-radius:60px;
     position:relative ;
     top:30px;
@@ -31,15 +32,16 @@ body {
 #x{
     color:white;
     position:relative ;
-    top:20px;
+    top:50px;
+    font-size: 50px;
 }
 
 p{
     color:black;
     position:relative ;
     font-weight:bold;
-    font-size:20px;
+    font-size:50px;
     -webkit-text-stroke:0.5px #000;
     top:13px;
-    left:5px;
+    left:9px;
 }
