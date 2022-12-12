@@ -6,5 +6,26 @@ window.addEventListener('click',() => {
 a.play();
 });
 
+function aakuWriter(target, msg) {
+    let i=0,
+        id = setInterval(() => {
+        
+        target.append(msg[i++]);
+        if (i >= msg.length) {
+            clearInterval(id);         
+        }
+    }, 70);
+}
 
-alert("Happy Birthday Shreya 😊 click on screen for music")
+function apear(){
+    document.getElementById("HBD").style.display="block";
+}
+window.onload = function(){
+    confetti.start(); 
+
+}
+
+
+alert(" Hii,-Happy Birthday Shreya🥳- click on screen for music")
+
+
