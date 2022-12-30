@@ -41,7 +41,7 @@ p{
     color:darkblue;
     position:relative ;
     font-weight:bold;
-    font-size:50px;
+    font-size:40px;
     top:13px;
     left:9px;
 }
@@ -93,7 +93,7 @@ p{
 /* Flickering animation */
 @keyframes flicker {
     
-  0%, 18%, 22%, 25%, 53%, 57%, 100% {
+ 0%, 1%, 2%, 2%, 5%, 7%, 10% {
 
       text-shadow:
       0 0 4px #fff,
