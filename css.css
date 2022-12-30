@@ -13,13 +13,13 @@ body {
     border-radius:10px;
      border-color: #ff3300;
     background-image: linear-gradient(yellow, #f4baff, #4ccafc);
-    animation:a 1.1s linear infinite ;
+    animation:a 4s linear infinite ;
 }
 
 @keyframes a{
-   70%{top:9px;}
-    70%{top:9px;}
-    70%{top:9px;}
+   30%{top:90px;}
+    30%{top:90px;}
+    30%{top:90px;}
 }
 
 #pro{
