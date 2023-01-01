@@ -5,7 +5,7 @@ body {
 
 .main{
     width:90%;
-    height:3000px;
+    height:425px;
     border:6px solid;
     position:relative ;
     margin:auto ;
@@ -38,7 +38,7 @@ body {
 }
 
 p{
-    color:darkblue;
+    color:write;
     position:relative ;
     font-weight:bold;
     font-size:40px;
@@ -46,7 +46,7 @@ p{
     left:9px;
 }
 #bod{
-    color:#1715c1;
+    color:#ffffff;
     position:relative ;
     font-weight:bold;
     font-size:30px;
@@ -63,4 +63,17 @@ p{
        font-size:19px;
     text-align: center;
  }
+.neonText {
+  color: #fff;
+   text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+}
+
 
