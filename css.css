@@ -5,7 +5,7 @@ body {
 
 .main{
     width:90%;
-    height:425px;
+    height:300px;
     border:6px solid;
     position:relative ;
     margin:auto ;
@@ -46,7 +46,7 @@ p{
     left:9px;
 }
 #bod{
-    color:#ffffff;
+    color:#f5c1d8;
     position:relative ;
     font-weight:bold;
     font-size:30px;
@@ -73,21 +73,4 @@ p{
 
 /* Additional styling */
   
-h2 {
- font-size: 1.8rem;
-}
-.container {
-  margin-top: 20vh;
-}
 
-body {
-  font-size: 18px;
-  font-family: "Helvetica Neue", sans-serif;
-  background-color: #010a01;
-}  
-
-h1, h2 {
-  text-align: center;
-  text-transform: uppercase;
-  font-weight: 400;
-}
