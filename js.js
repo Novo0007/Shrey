@@ -6,10 +6,9 @@ window.addEventListener('click',() => {
 a.play();
 });
 
-alert(" Hii,-Happy Birthday Shreya🥳- click on screen for music")
+alert (" Welcome...\nHappy Birthday Shreya🥳- \nclick on screen for music");
+alert (" Welcome...\n🎁🎁");
 
-
-window.onload = function(){
-    confetti.start(); 
-
-}
+window.onload = function() {
+  confetti.start();
+};
