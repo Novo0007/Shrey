@@ -13,7 +13,7 @@ body {
     border-radius:10px;
      border-color: #ff3300;
     background-image: linear-gradient(yellow, #f4baff, #4ccafc);
-    animation:a s linear infinite ;
+    animation:a 6s linear infinite ;
 }
 
 @keyframes a{
